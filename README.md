@@ -2,8 +2,8 @@
 
 ###
 
-<p align="left">My name is Jay Jagdish Kar and I'm a 1st Year Student , from NSUT</p>
-
+<p align="left">Who? Me?</p>
+<p align="left">Myself, Jay, a sophomore at Netaji Subhas University of Technology (NSUT), Delhi !!!</p>
 ###
 
 <h2 align="left">About me</h2>
